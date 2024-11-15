@@ -1,6 +1,4 @@
-Evo kako može izgledati profesionalno i pregledno **README.md** za tvoj **Finance Tracker** projekt na GitHub-u:  
 
----
 
 # 💸 Finance Tracker  
 
