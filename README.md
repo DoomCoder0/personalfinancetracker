@@ -3,7 +3,7 @@
 # 💸 Finance Tracker  
 
 **Finance Tracker** is a Python-based application that helps you take control of your finances. Track expenses, set budgets, and visualize financial data to achieve your financial goals effortlessly.  
-![Finance Tracker](./finance_tracker.png)
+![Finance Tracker](./images/finance_tracker.png)
 
 
 
