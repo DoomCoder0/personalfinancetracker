@@ -95,6 +95,4 @@ Feel free to check the [issues page](https://github.com/YourUsername/finance-tra
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
 
----
 
-Dodaj sliku, GIF ili vizualizaciju rada aplikacije u sekciju **Screenshots** kako bi izgledalo profesionalnije. Također, zamijeni placeholdere poput "YourUsername" sa stvarnim informacijama.  
